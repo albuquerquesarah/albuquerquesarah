@@ -1,8 +1,9 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Signa
-- 🌱 I’m currently learning C# e Vue.js
-- 📫 How to reach me: saahaaf210@gmail.com
+- 🔭 Trabalhando na Signa
+- 🌱 Aprendendo C# e Vue.js
+- 📚 Estudando Ciência da Computação
+- 📫 E-mail: saahaaf210@gmail.com
 
 <div align="center">
   <a href="https://github.com/albuquerquesarah">
