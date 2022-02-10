@@ -19,6 +19,8 @@ Olá! 👋
   <img align="center" alt="sarah-Java" height="32" width="40" img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
   <img align="center" alt="sarah-SQL" height="32" width="40" img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 </div>
+  
+  ##
 
 <div>
    <a href="https://www.linkedin.com/in/sarah-albuquerqueaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
