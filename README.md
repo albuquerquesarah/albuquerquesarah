@@ -28,4 +28,4 @@ Olá! 👋
   
  </div>
 
-![Snake animation](https://github.com/albuquerquesarah/albuquerquesarah/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/albuquerquesarah/albuquerquesarah/blob/output/github-contribution-grid-snake.svg)
