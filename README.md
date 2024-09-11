@@ -5,12 +5,7 @@ Olá! 👋
 - 📚 Estudando Ciência da Computação
 - 📫 E-mail: saahaaf210@gmail.com/sa.albuquerque210@gmail.com
 
-<div align="center">
-  <a href="https://github.com/albuquerquesarah">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=albuquerquesarah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerquesarah&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sarah-Vue.js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
