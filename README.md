@@ -1,9 +1,9 @@
 Olá! 👋
 
-- 🔭 Trabalhando na Signa
-- 🌱 Aprendendo C# e Vue.js
+- 🔭 Trabalhando na MultiSoftware
+- 🌱 Desenvolvendo em C# e JavaScript
 - 📚 Estudando Ciência da Computação
-- 📫 E-mail: saahaaf210@gmail.com
+- 📫 E-mail: saahaaf210@gmail.com/sa.albuquerque210@gmail.com
 
 <div align="center">
   <a href="https://github.com/albuquerquesarah">
