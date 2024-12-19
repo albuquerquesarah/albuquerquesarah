@@ -1,8 +1,7 @@
 Olá! 👋
 
-- 🔭 Trabalhando na MultiSoftware
-- 🌱 Desenvolvendo em C# e JavaScript
-- 📚 Estudando Ciência da Computação
+- 🌱 Desenvolvimento em C# e JavaScript
+- 📚 Formada Ciência da Computação
 - 📫 E-mail: saahaaf210@gmail.com/sa.albuquerque210@gmail.com
 
 <div style="display: inline_block"><br>
